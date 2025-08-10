@@ -1,54 +1,44 @@
-# Anon
+# Anon - An eCommerce Website
 
----
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-## 🎨 Personal Portfolio Website
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-This project is a **personal portfolio website** built using **HTML5**, **CSS3**, and **JavaScript**. It is designed to present personal details, showcase skills, display projects, and provide an easy way for visitors to connect.
+## Demo
 
-### ✨ Features
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-* **Responsive Design** – Works seamlessly across desktops, tablets, and mobile devices.
-* **Header with Navigation** – Smooth navigation links to sections like Home, About, Skills, Projects, and Contact.
-* **Hero Section** – Eye-catching introduction with a personal headline, brief bio, and call-to-action buttons.
-* **About Section** – Overview of personal background, education, and professional journey.
-* **Skills Section** – Highlights key technical and professional skills using a clean layout.
-* **Projects Showcase** – Displays completed work with images, descriptions, and links for more details.
-* **Contact Section** – Includes a functional contact form for inquiries and collaborations.
-* **Footer** – Contains quick links and copyright information.
+## Prerequisites
 
-### 🛠 Tech Stack
+Before you begin, ensure you have met the following requirements:
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Icons:** (Likely Font Awesome / similar library based on usage)
-* **Fonts:** Google Fonts
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### 📂 Folder Structure
+## Installing Anon
 
-```
-index.html
-assets/
-  ├── css/style.css
-  ├── js/script.js
-  ├── images/...
+To install **Anon**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
-### 🚀 How to Run Locally
+Windows:
 
-1. Clone the repository:
+```bash
+git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
 
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-   ```
-2. Open `index.html` in your browser to view the website.
+## Contact
 
-### 📌 Future Enhancements
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-* Add animations for better user experience.
-* Connect form submissions to an email service.
-* Add a blog section to share updates and insights.
+## License
 
-This project is perfect for **personal branding** and **frontend development practice** while building a clean and professional web presence.
-
----
-
+This project is **free to use** and does not contains any license.
